@@ -1,5 +1,10 @@
 # CNN Based Segmentation Module on 3DSlicer
+## Main Window:
+![](https://github.com/junyuchen245/3DSlicer-DeepLearning-Seg/blob/master/Example2.png)
+
+## Obtained Segmentation:
 ![](https://github.com/junyuchen245/3DSlicer-DeepLearning-Seg/blob/master/Example.png)
+
 ## To install Tensorflow and other packages on 3DSlicer's Python:
 ```bash
 cd ~/Applications/Slicer.app/Contents/bin
