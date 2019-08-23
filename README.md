@@ -13,3 +13,5 @@ Use PythonSlicer to call pip to install external packages, for instance:
 ```bash
 ./PythonSlicer -m pip install scikit-image
 ```
+
+### <a href="https://junyuchen245.github.io"> About Myself</a>
